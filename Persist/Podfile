@@ -1,0 +1,12 @@
+platform :ios, '8.0'
+target 'Persist' do
+pod 'JSONModel', '~> 1.8.0'
+pod 'Masonry'
+pod 'SDWebImage'
+pod 'FMDB'
+pod 'AFNetworking'
+pod 'AMap3DMap' 
+pod 'AMapSearch'
+pod 'AMapLocation'
+pod 'AFNetworking'
+end
